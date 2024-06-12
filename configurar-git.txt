@@ -1,0 +1,9 @@
+como configurar o git
+
+git config --global user.name "Soraia Jacome"
+git config --global user.email "jacome.soraia@gmail.com"
+
+
+
+git config --list
+pra saber se tá tudo configurado

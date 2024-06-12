@@ -1,0 +1,35 @@
+comandos git 
+
+clear
+limpa todo o terminal
+
+pwd
+comando q indica onde estou, onde está o diretório(pasta)
+
+ls
+lista os arquivos de onde estou
+
+mkdir
+criar nova pasta
+
+cd + o nome da pasta
+entrar na pasta citada
+
+cd ..
+volta pra pasta inicial q vc estava
+
+echo  "escreva o texto q quiser" > index.html
+cria um arquivo do formato q vc colocou no final (exemplo de html)
+mas antes tem q usar o comando cd pra dizer em qual pasta vc quer colocar
+o arquivo
+
+seta para cima
+vai mostrando todos os comandos q vc fez antes, mesmo depois do clear
+
+rm o nome do arquivo
+serve pra deletar o arquivo
+
+
+
+
+
