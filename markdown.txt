@@ -1,0 +1,74 @@
+linguagem de formatação de texto
+
+para elementos simples como:
+
+-títulos 
+título principal (h1)
+subtitulo (h2)
+subsubtitulo (h3)
+e assim vai
+
+-negrito
+**texto**
+
+-italico
+*texto*
+
+-listas
+
+ordenada
+usar numeros seguidos de .
+
+n ordenadas
+* , + ou -
+
+-links
+dentro de chaves
+[texto do link] (URL)
+
+IMAGENS
+![texto] (URL DA IMAGEM)
+
+-códigos
+crase simples pra codigos inline
+`print("olá, on34 Reprograma!")`
+
+``` para códigos em bloco
+
+citação 
+usa >
+
+ex
+> citação
+
+cabeçalho 
+
+utiliza ------ para separar
+
+ultiza|||||| para separar colunas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

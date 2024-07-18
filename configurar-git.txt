@@ -1,4 +1,6 @@
-como configurar o git
+como configurar o git PELA PRIMEIRA VEZ
+
+
 
 git config --global user.name "Soraia Jacome"
 git config --global user.email "jacome.soraia@gmail.com"
@@ -7,3 +9,30 @@ git config --global user.email "jacome.soraia@gmail.com"
 
 git config --list
 pra saber se tá tudo configurado
+
+
+
+
+
+CRIAR UM REPOSITÓRIO NO GITHUB E CONECETAR ELE COM O REPOSITORIO DO PC
+
+depois criar um repositório no github COM O NOME DA PASTA
+pegar o link
+git remote add origin https://github.com/jacomesoraia/on34-S1.git
+
+
+SEGUINDO ESSA ORDEM SEMPRE NO COMEÇO
+
+
+dá git init NO GIT DO PC
+
+
+git push -u origin main PARA MUDAR PARA A BRANCH MAIN
+
+git add . OU git add nome-do-arquivo
+adiciona um arquivo modificado ao stagging (area temporaria)
+
+git commit -m "mensagem"
+cria um commit DIZENDO OQ FOI FEITO
+
+git push origin nome da brach

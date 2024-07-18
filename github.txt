@@ -1,0 +1,16 @@
+funções github
+
+fork
+cria uma cópia de um repositorio na sua
+conta
+
+pull request 
+solicita a incorporação de mudanças no
+repositório
+
+issues
+ferramenta para rastrear tarefas e bugs
+
+actions
+automatiza fluxos de trabalho e 
+desenvolvimento

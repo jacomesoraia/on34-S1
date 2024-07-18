@@ -29,7 +29,44 @@ vai mostrando todos os comandos q vc fez antes, mesmo depois do clear
 rm o nome do arquivo
 serve pra deletar o arquivo
 
+git status 
+pra saber oq já foi feito
+
+git  init
+iniciar o git no repositorio local
+
+git add nome-do-arquivo ou git add .
+adiciona um arquivo modificado ao stagging (area temporaria)
+
+git commit -m "mensagem"
+cria um commit 
+
+git pull
+atualiza do remoto para local
+
+git push
+atualiza de local pra remoto
+
+git remote add origin <caminho>
+adiciona o repositório local ao remoto
+
+git checkout --<nome-arquivo>
+descarta as alterações locais do arquivo informado 
+
+git checkout -b o nome da nova branch
+sai da branch atual e vai pra q vc criou
+
+
+trocar de branch sem criar outra
+git checkout nome da branch
+
+git merge branch 
+junta uma branch com outra
+
+git clone <url>
+clona um repositorio remoto
 
 
 
+ 
 
